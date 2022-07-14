@@ -1,4 +1,11 @@
 import java.text.NumberFormat;
+/**
+ * @author Owen Shay 3750150
+ CS1083
+ Module 2 Assignment
+ 06/27/2022
+ */
+
 public class LotteryDraw {
 
     private int ticketQty;
